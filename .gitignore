@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Node modules (if you use Eleventy/Hugo/etc.)
+node_modules/
+
+# Build output (so you only push source, not compiled files)
+_site/
+public/
+dist/
+
+# Personal notes/drafts (optional folder for stuff you don’t want online)
+private/
